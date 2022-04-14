@@ -8,7 +8,7 @@ SortController::SortController(View *view, Model *model){
     srand(time(0));
     _view = view;
     _model = model;
-    _model->_list = GenerateRandomList(30);
+    _model->_list = GenerateRandomList(50);
 }
 
 std::vector<int> SortController::GenerateRandomList(int size){
