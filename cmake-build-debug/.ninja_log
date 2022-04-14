@@ -1,0 +1,9 @@
+# ninja log v5
+2	755	1649844420640461113	CMakeFiles/SortVisualisation.dir/Model/Model.cpp.o	dfd6be6f44594897
+1	523	1649702208425412111	CMakeFiles/SortVisualisation.dir/Model/Data.cpp.o	44ac386b6fee90ac
+2	944	1649965298805842017	CMakeFiles/SortVisualisation.dir/main.cpp.o	9818e1de7f5b4b83
+2	982	1649965519666442731	CMakeFiles/SortVisualisation.dir/View/View.cpp.o	21e8fb0a3ae172ec
+931	1010	1649965468253121705	SortVisualisation	eb76012a0825e186
+2	931	1649965468168865950	CMakeFiles/SortVisualisation.dir/Controller/SortController.cpp.o	d65ef5ca7d094e05
+1	347	1649965539600149693	build.ninja	14ca86bf54f7cf39
+1	64	1649965539678654906	SortVisualisation	7b847d16101076af
