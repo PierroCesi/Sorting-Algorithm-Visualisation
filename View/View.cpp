@@ -6,7 +6,6 @@
 
 View::View(Model *model){
     _window = new sf::RenderWindow(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "sort visu");
-    this->_window->setFramerateLimit(120);
     _model = model;
 }
 
